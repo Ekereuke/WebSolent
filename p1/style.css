@@ -4,6 +4,30 @@
 	height:100px;
 	border-radius:10px;
 
+}
 
+#name{
+	font-family:Verdana;
+	
 
+}
+
+#email{
+	font-family:arial;
+
+}
+#p1{
+	font-family: Segoe-ui;
+	color:blue;
+}
+#t1{
+	border: 1px solid;
+}
+#t1,td{
+	border: 1px solid;
+	border-collapse:collapse;	
+
+}
+body{
+	background-color:yellow;
 }
